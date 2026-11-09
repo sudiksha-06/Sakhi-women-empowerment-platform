@@ -6,3 +6,5 @@ python-dotenv>=1.0
 Pillow>=10.0
 mysqlclient>=2.2
 google-generativeai>=0.8
+
+gunicorn
